@@ -1,0 +1,2 @@
+# Automated-Image-Retrieval-and-Analysis-of-Face-Sprite-Sheets
+This assignment focuses on the automation of image search and download using the Google Search API, specifically targeting face sprite sheets. Students implement scripts to retrieve images based on search queries, process them using Python libraries such as OpenCV and Matplotlib, and visualize the results.
